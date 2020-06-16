@@ -4,8 +4,8 @@ layout: post
 title: "GOMTV MOBILE"
 subtitle: ㈜곰앤컴퍼니
 description: 곰TV 모바일 웹 마크업 메인 구축. 반응형 작업. Tablet / Mobile 기기 대응.
-image: https://66.media.tumblr.com/f78820e4c648ea807b4bd9e58254af7d/tumblr_p3t9xcbJGe1x3wc1uo1_1280.png
-optimized_image: https://66.media.tumblr.com/bb062abb9626eec78e516617dc427064/0e105aa95d7a8baa-94/s500x750/59127180204da6a78fecab70664681fb3aece1df.jpg
+image: /assets/img/portfolio/gomtvm.jpg
+optimized_image: /assets/img/portfolio/gomtvm_thumb.jpg
 category: 구축
 tags:
   - HTML5
