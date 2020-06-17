@@ -17,7 +17,6 @@ paginate: false
 ---
 
 <a href="http://expmini.gomtv.com/">http://expmini.gomtv.com/</a><br>
-
 **2014.05.06 ~ 2018.08.10** <br>
 곰플레이어 어플리케이션 웹뷰 및 플레이어 영역 유지보수.<br>
 IE5,IE6 하위버전 대응
