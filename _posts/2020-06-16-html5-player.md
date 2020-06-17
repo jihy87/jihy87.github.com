@@ -11,6 +11,7 @@ tags:
   - HTML5
   - SCSS
   - jQuery
+  - Gulp
   - 반응형
   - PL
 author: jihy
@@ -24,7 +25,7 @@ Tablet / Mobile 기기 대응.
 
 > 웹퍼블리싱 Ace <br>
 참여율: 100% <br>
-사용기술: HTML5, SCSS, jQuery, 반응형
+사용기술: HTML5, SCSS, jQuery, Gulp, 반응형
 
 근무처: ㈜곰앤컴퍼니<br>
 발주처: ㈜곰앤컴퍼니
