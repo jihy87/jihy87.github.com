@@ -8,7 +8,8 @@ tags:
   - 웹퍼블리셔
 email: sugar7000@naver.com
 #disqus_username: disqus_username
-show_hero: true
+#show_hero: true
+show_about: true
 menu:
   - title: Home
     url: /
