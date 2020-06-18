@@ -9,7 +9,8 @@ tags:
   - 웹퍼블리셔
 email: sugar7000@naver.com
 #disqus_username: disqus_username
-show_hero: true
+#show_hero: true
+show_about: true
 menu:
   - title: Home
     url: /
@@ -23,10 +24,10 @@ menu:
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
+# github_username: github_username
 #facebook_username: facebook_username
 #twitter_username: twitter_username
-instagram_username: instagram_username
+# instagram_username: instagram_username
 #linkedin_username: linkedin_username
 #medium_username: medium_username
 
