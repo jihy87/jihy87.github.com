@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: /assets/img/bg.jpg
 name: jihy
 display_name: Ji hyeyeon
 <!-- position: Chief Editor -->
