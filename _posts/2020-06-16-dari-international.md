@@ -6,7 +6,7 @@ subtitle: ㈜스타일쉽
 description: ㈜다리 인터내셔널 브랜드 사이트 구축.
 image: /assets/img/portfolio/dari.jpg
 optimized_image: /assets/img/portfolio/dari_thumb.jpg
-category: 구축
+category: build
 tags:
   - CSS
   - HTML
