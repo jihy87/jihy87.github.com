@@ -1,7 +1,7 @@
 ---
 date: 2015-10-01 00:00:00
 layout: post
-title: "GOM Lab MOBILE"
+title: "GOM Lab 2015 MOBILE"
 subtitle: ㈜곰앤컴퍼니
 description: GOM Lab 모바일웹용 마크업 구축. Tablet / Mobile 기기 대응.
 image: /assets/img/portfolio/GOMLABm.jpg
