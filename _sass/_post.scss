@@ -69,15 +69,18 @@
   iframe {
     @include center(rem(800px));
     @include mainFont(400);
-    font-size: rem(17px);
-    line-height: rem(30px);
+    // font-size: rem(17px);
+    // line-height: rem(30px);
+    font-size: rem(16px);
+    line-height: 1.7;
     letter-spacing: 0.025rem;
     padding: 0 rem(20px);
     margin: rem(20px) auto 0;
 
     @include media(">=sm") {
-      font-size: rem(20px);
-      line-height: rem(40px);
+      // font-size: rem(20px);
+      // line-height: rem(40px);
+      font-size: rem(18px);
       margin: rem(29px) auto 0;
     }
   }
@@ -196,10 +199,12 @@
     }
   }
   h1 {
-    font-size: rem(36px);
+    // font-size: rem(36px);
+    font-size: rem(34px);
     line-height: 1.4;
     @include media(">=sm") {
-      font-size: rem(50px);
+      // font-size: rem(50px);
+      font-size: rem(45px);
     }
   }
 
@@ -713,12 +718,54 @@
   }
 }
 
-/* jihy edit */
-.footnotes {
-  ol {
-    font-size:rem(13px);
-    p {
-      font-size:rem(13px);
+// about
+ul.lst_career {
+  border-left:4px solid #000; 
+  list-style:none; 
+  padding:0;
+  li {
+    overflow:hidden;
+    position:relative;
+    padding-left:60px;
+    margin-bottom:20px;
+    &:before {
+      content:"";
+      display:block;
+      position:absolute;
+      top:18px; left:30px;
+      width:10px;
+      height:10px;
+      border-radius:4px;
+      background-color:#000;
+    }
+    &:after {
+      content:"";
+      display:block;
+      position:absolute;
+      top:22px; left:0px;
+      width:28px;
+      height:2px;
+      background-color:#000;
+    }
+  }
+  .date {
+    float:left;
+    width:210px;
+    font-size: rem(16px);
+    span {
+      display:block;
+      font-size:rem(14px);
+      color:#aaa;
+    }
+  }
+  .cnt {
+    float:left;
+    width:calc(100% - 210px);
+    font-size: rem(16px);
+    strong {
+      display:block;
+      margin-bottom:8px;
+      font-size: rem(18px);
     }
   }
 }
