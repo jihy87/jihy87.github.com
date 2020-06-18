@@ -42,15 +42,18 @@ layout: main
 	{% endif %}
 	{% if site.show_about and paginator == nil or paginator.page == 1 %}
 		<section class="about">
+			<div class="pixels"></div>
+			<div class="gradient"></div>
 			<div class="content">
 				<h1 class="title">About Ji Hyeyeon <sub>Webpublisher</sub></h1>
 				<h2>Skill</h2>
 				<ul class="lst_skill">
 					<li>
-						<p class="tit">
-							<span><i class="fab fa-html5"></i> HTML5 & XTHML</span>
-							<span><i class="fab fa-css3-alt"></i> CSS3</span>
-						</p>
+						<p class="tit"><i class="fab fa-html5"></i> HTML5 & XTHML</p>
+						<div class="bar"><span style="width:100%"></span></div>
+					</li>
+					<li>
+						<p class="tit"><i class="fab fa-css3-alt"></i> CSS3 & CSS2</p>
 						<div class="bar"><span style="width:100%"></span></div>
 					</li>
 					<li>
@@ -86,7 +89,7 @@ layout: main
 						<div class="bar"><span style="width:80%"></span></div>
 					</li>
 				</ul>
-				<h2><!-- <i class="fas fa-book-reader"></i> -->Studying</h2>
+				<h2>Studying</h2>
 				<ul class="lst_skill">
 					<li>
 						<p class="tit"><i class="fab fa-vuejs"></i> Vue</p>
