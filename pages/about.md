@@ -25,7 +25,7 @@ permalink: /about/
 			<strong>㈜티웨이항공</strong>
 			티웨이항공 2018 홈페이지 개편 구축 참여. 이후 웹접근성 프로젝트 및 유지보수 마크업 진행. <br>
 			주요직무 : 웹접근성, 자바스크립트, CSS3, HTML5, 웹퍼블리셔<br>
-			<a href="twayair2019/">대표작업물<i class="fas fa-angle-right"></i></a>
+			<a href="{{ site.baseurl }}/twayair2019/">대표작업물 <i class="fas fa-angle-right"></i></a>
 		</div>
 	</li>
 	<li>
@@ -37,7 +37,7 @@ permalink: /about/
 			<strong>㈜곰앤컴퍼니</strong>
 			곰앤컴퍼니, 곰TV, 곰랩(곰플레이어 등) 사업에 필요한 홈페이지 구축 및 유지보수 마크업 진행.<br>
 			주요직무 : 웹퍼블리셔, HTML5, 웹표준, 웹접근성, CSS3<br>
-			대표작업물<i class="fas fa-angle-right"></i>
+			<a href="{{ site.baseurl }}/gomlab2018/">대표작업물 <i class="fas fa-angle-right"></i></a>
 		</div>
 	</li>
 	<li>
@@ -49,7 +49,7 @@ permalink: /about/
 			<strong>㈜SBS콘텐츠허브</strong>
 			SBS 전반 사업에 필요한 홈페이지 구축 및 유지보수 마크업 진행.<br>
 			주요직무 : HTML코딩, CSS, HTML5, 웹표준, 웹접근성<br>
-			대표작업물<i class="fas fa-angle-right"></i>
+			<a href="{{ site.baseurl }}/sbscontent/">대표작업물 <i class="fas fa-angle-right"></i></a>
 		</div>
 	</li>
 	<li>
@@ -60,8 +60,7 @@ permalink: /about/
 		<div class="cnt">
 			<strong>㈜스타일쉽</strong>
 			웹 에이전시. 패션사업 홈페이지 및 마이크로 사이트, 쇼핑몰, 교육 등 여러분야의 홈페이지 마크업 구축.<br>
-			주요직무 : HTML코딩, 웹퍼블리셔, 웹표준, CSS<br>
-			대표작업물<i class="fas fa-angle-right"></i>
+			주요직무 : HTML코딩, 웹퍼블리셔, 웹표준, CSS
 		</div>
 	</li>
 </ul>

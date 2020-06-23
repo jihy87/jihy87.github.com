@@ -227,13 +227,18 @@
   background-repeat: no-repeat;
   width: 100%;
   height: 100vh;
-  background-image: url(../../assets/img/html.png);
+  background-image: url('../../assets/img/html.png');
   color:$accentDark;
-  max-height: 740px;
+  min-height: 860px;
 
   // @include media(">=sm") {
-  //     max-height: 740px;
+  //   min-height: 740px;
+  //   height: 100vh;
   // }
+
+  +#grid {
+    margin-top: rem(-80px);
+  }
 
   .gradient,
   .pixels {
@@ -259,7 +264,7 @@
     flex-direction: column;
     position: absolute;
     width: 92%;
-    height: 100%;
+    height: 92%;
     padding-left: 8%;
 
     @include media(">=sm") {

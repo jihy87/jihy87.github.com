@@ -749,23 +749,35 @@ ul.lst_career {
     }
   }
   .date {
-    float:left;
-    width:210px;
-    font-size: rem(16px);
+    font-size:rem(16px);
     span {
       display:block;
       font-size:rem(14px);
       color:#aaa;
     }
+    @include media(">=sm") {
+      float:left;
+      width:200px;
+    }
   }
   .cnt {
-    float:left;
-    width:calc(100% - 210px);
-    font-size: rem(16px);
+    margin-top:20px;
+    font-size:rem(16px);
     strong {
       display:block;
       margin-bottom:8px;
       font-size: rem(18px);
+    }
+    a {
+      color:#aaa;
+    }
+    i {
+      font-size:rem(17px);
+    }
+    @include media(">=sm") {
+      float:left;
+      width:calc(100% - 200px);
+      margin-top:0px;
     }
   }
 }
