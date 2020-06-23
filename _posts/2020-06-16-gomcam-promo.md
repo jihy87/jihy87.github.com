@@ -6,7 +6,8 @@ subtitle: ㈜곰앤컴퍼니
 description: 곰캠 국내 할인 프로모션 페이지 마크업 개발.
 image: /assets/img/portfolio/gomcam.jpg
 optimized_image: /assets/img/portfolio/gomcam_thumb.jpg
-category: 프로모션
+category: promotion
+category_encode: "프로모션"
 tags:
   - HTML5
   - CSS

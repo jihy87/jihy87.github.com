@@ -4,9 +4,10 @@ layout: post
 title: "HTML5 플레이어 UI개발"
 subtitle: ㈜곰앤컴퍼니
 description: 곰앤컴퍼니 VOD서비스 대응 HTML5 플레이어 마크업 구축. Tablet / Mobile 기기 대응.
-image: https://66.media.tumblr.com/5e80561b2a449c7a70122e513aa5f059/tumblr_p5ivcqaKDh1x3wc1uo1_1280.png
-optimized_image: https://66.media.tumblr.com/5e80561b2a449c7a70122e513aa5f059/tumblr_p5ivcqaKDh1x3wc1uo1_1280.png
-category: 구축
+image: /assets/img/portfolio/html5player.png
+optimized_image: /assets/img/portfolio/html5player.png
+category: project
+category_encode: "구축"
 tags:
   - HTML5
   - SCSS

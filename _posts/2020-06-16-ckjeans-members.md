@@ -6,7 +6,8 @@ subtitle: ㈜스타일쉽
 description: CK JEANS 멤버쉽 사이트 유지보수.
 image: /assets/img/portfolio/ckjeans.jpg
 optimized_image: /assets/img/portfolio/ckjeans_thumb.jpg
-category: 유지보수
+category: maintenance
+category_encode: "유지보수"
 tags:
   - CSS
   - HTML

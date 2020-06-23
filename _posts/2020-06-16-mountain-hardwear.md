@@ -6,7 +6,8 @@ subtitle: ㈜스타일쉽
 description: 마운틴 하드웨어 사이트 마크업 구축 및 유지보수.
 image: /assets/img/portfolio/mountain.jpg
 optimized_image: /assets/img/portfolio/mountain_thumb.jpg
-category: 구축
+category: project
+category_encode: "구축"
 tags:
   - CSS
   - HTML

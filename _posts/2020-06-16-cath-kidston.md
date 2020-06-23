@@ -6,7 +6,8 @@ subtitle: ㈜스타일쉽
 description: 캐드키드슨코리아 국내 사이트 마크업 구축.
 image: /assets/img/portfolio/cath.jpg
 optimized_image: /assets/img/portfolio/cath_thumb.jpg
-category: 구축
+category: project
+category_encode: "구축"
 tags:
   - CSS
   - HTML

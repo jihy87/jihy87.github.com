@@ -6,7 +6,8 @@ subtitle: ㈜스타일쉽
 description: ‘JACK & JILL are YOU A-IN’ 2011 스프링/썸머 개편 마크업 구축.
 image: /assets/img/portfolio/jacknjill2011.jpg
 optimized_image: /assets/img/portfolio/jacknjill2011.jpg
-category: 개편
+category: renewal
+category_encode: "개편"
 tags:
   - CSS
   - HTML

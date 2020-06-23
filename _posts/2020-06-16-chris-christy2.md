@@ -6,7 +6,8 @@ subtitle: ㈜스타일쉽
 description: 크리스크리스티 2011 스프링/썸머 시즌 사이트 개편 마크업 구축.
 image: /assets/img/portfolio/chris2011.jpg
 optimized_image: /assets/img/portfolio/chris2011_thumb.jpg
-category: 개편
+category: renewal
+category_encode: "개편"
 tags:
   - CSS
   - HTML

@@ -6,7 +6,8 @@ subtitle: ㈜스타일쉽
 description: 모바일 컨버스 코리아 마크업 구축 및 유지보수.
 image: /assets/img/portfolio/conversem.jpg
 optimized_image: /assets/img/portfolio/conversem_thumb.jpg
-category: 구축
+category: project
+category_encode: "구축"
 tags:
   - CSS
   - HTML

@@ -6,7 +6,8 @@ subtitle: ㈜스타일쉽
 description: 그레이구스 국내 사이트 구축.
 image: /assets/img/portfolio/gray.jpg
 optimized_image: /assets/img/portfolio/gray_thumb.jpg
-category: 구축
+category: project
+category_encode: "구축"
 tags:
   - CSS
   - HTML

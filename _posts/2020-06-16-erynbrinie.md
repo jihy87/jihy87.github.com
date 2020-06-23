@@ -6,7 +6,8 @@ subtitle: ㈜스타일쉽
 description: 에린브리니에 국내 사이트 레이아웃 구축 및 일부 HTML마크업 지원.
 image: /assets/img/portfolio/eryn.jpg
 optimized_image: /assets/img/portfolio/eryn_thumb.jpg
-category: 구축
+category: project
+category_encode: "구축"
 tags:
   - CSS
   - HTML

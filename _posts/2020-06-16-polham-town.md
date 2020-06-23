@@ -6,7 +6,8 @@ subtitle: ㈜스타일쉽
 description: 폴햄타운 사이트 마크업 구축.
 image: /assets/img/portfolio/pollhamtown.jpg
 optimized_image: /assets/img/portfolio/pollhamtown_thumb.jpg
-category: 구축
+category: project
+category_encode: "구축"
 tags:
   - CSS
   - HTML

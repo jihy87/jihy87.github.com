@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Work
-slug: work
+title: "프로모션"
+slug: promotion
 description: A category for work related posts.
 ---

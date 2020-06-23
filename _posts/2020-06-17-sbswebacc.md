@@ -6,7 +6,8 @@ subtitle: ㈜SBS콘텐츠허브
 description: SBS 웹접근성 사업 진행 참여.
 image: /assets/img/portfolio/webacc.jpg
 optimized_image: /assets/img/portfolio/webacc_thumb.jpg
-category: 웹접근성
+category: project
+category_encode: "구축"
 tags:
   - HTML
   - CSS

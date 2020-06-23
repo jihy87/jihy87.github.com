@@ -6,7 +6,8 @@ subtitle: ㈜스타일쉽
 description: 컨버스 코리아 2011 국내 사이트 마크업 구축 및 유지보수
 image: /assets/img/portfolio/converse.jpg
 optimized_image: /assets/img/portfolio/converse.jpg
-category: 구축
+category: project
+category_encode: "구축"
 tags:
   - CSS
   - HTML
